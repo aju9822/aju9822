@@ -1,0 +1,3 @@
+- 👋 Hi, I’m aju9822
+- 👀 I’m interested in Mobile Applications Development
+- 🌱 I’m currently learning Kotlin and working as mobile application developer
